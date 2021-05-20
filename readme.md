@@ -11,3 +11,7 @@ Hi there, I'm Ashen👋
 <img src="https://github-readme-stats.vercel.app/api?username=TaylorLottner&theme=synthwave&show_icons=true">[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorLottner&layout=compact&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 > 快来骚扰我~~~
+
+|     QQ |  Wechat |
+| ------- | ------- |
+| 1535686711|  TaylorLottner       |
