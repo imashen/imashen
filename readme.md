@@ -4,7 +4,7 @@ Hi there, I'm Ashen👋
 
 #### About：
 
-懒了哎<img src="https://github.com/icecliffs/icecliffs/blob/master/assert/2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067.png?raw=true" alt="2a7bae05dd0ae74bc3fbf2cd8d22897c12f8c067" align="right"/>
+懒了哎<img src="https://cdn.jsdelivr.net/gh/TaylorLottner/TaylorLottner@main/photo.png" align="right"/>
 
 #### Github 
 
