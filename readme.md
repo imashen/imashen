@@ -12,6 +12,6 @@ Hi there, I'm Ashen👋
 
 > 快来骚扰我~~~
 
-|     QQ |  Wechat |
+|     QQ |  Blog |
 | ------- | ------- |
-| 1535686711|  TaylorLottner       |
+| 1535686711| imashen.cn |
