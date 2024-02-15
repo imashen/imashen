@@ -1,7 +1,4 @@
-<div align="right">
-  <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='420px'>  
-</div>
+
 <div align="left">
   <h3 align="center"> imashen | noneko</h3>
   <p align="center">
@@ -47,5 +44,22 @@
   - 🛩️ [Telegram @imashen](https://t.me/imashen)
   - 🎈 [TencentWeChat @imashenyoo](https://t.me/imashen)
   
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
-
+<div align="right">
+  <img align='right' src='/github-metrics.svg' width='420px'>
+  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='80px'>  
+</div>
