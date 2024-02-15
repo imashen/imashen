@@ -18,7 +18,7 @@
   - 🍭 Uninvited guests who wander the Internet all day long.
   - 🌌 Discover the joys of writing code.
   
-  <p align="center">
+  <p align="left">
   🛠 Hope to contribute to the world code base
   </p>
   
