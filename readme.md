@@ -44,20 +44,7 @@
   - 🛩️ [Telegram @imashen](https://t.me/imashen)
   - 🎈 [TencentWeChat @imashenyoo](https://t.me/imashen)
   
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+
 </div>
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
