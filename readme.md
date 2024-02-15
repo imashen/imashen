@@ -11,7 +11,7 @@
       <a href="https://steamcommunity.com/id/imashenyoo">Steam</a> ∙
     </samp>
   </p>
-  <p align="center">
+  <p align="left">
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
@@ -28,7 +28,7 @@
   - 📡 Wide range of areas of interest
   - 🗡 CS and Honor Of King  players
   
-  <p align="center">
+  <p align="left">
   📫 Skills (I think...)
   </p>
   
@@ -39,7 +39,7 @@
   - ⚡ GAMER!
   - ⚡ Front-end and back-end application development(just a joke)
   
-  <p align="center">
+  <p align="left">
   📧 Contact Me
   </p>
   
