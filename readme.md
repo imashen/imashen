@@ -1,17 +1,51 @@
-Hi there, I'm Ashen👋
 
-[![](https://img.shields.io/badge/Blog-@Ashen-green.svg)](https://imashen.cn/)
-
-#### About：
-
-懒了哎<img src="https://cdn.jsdelivr.net/gh/TaylorLottner/TaylorLottner@main/photo.png" align="right"/>
-
-#### Github 
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaylorLottner&theme=synthwave&show_icons=true">[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorLottner&layout=compact&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-> 快来骚扰我~~~
-
-|     QQ |  Blog |
-| ------- | ------- |
-| 1535686711| imashen.cn noneko.cn（demo）|
+<div align="left">
+  <h3 align="center"> imashen | noneko</h3>
+  <p align="center">
+    <samp>
+      <a href="https://imashen.cn/">Blog</a> ∙
+      <a href="https://space.bilibili.com/354520563">Bilibili</a> ∙
+      <a href="https://steamcommunity.com/id/imashenyoo">Steam</a> ∙
+    </samp>
+  </p>
+  <p align="center">
+  🗒 About Me (｡･∀･)ﾉﾞ
+  </p>
+  
+  - 🍭 Uninvited guests who wander the Internet all day long.
+  - 🌌 Discover the joys of writing code.
+  
+  <p align="center">
+  🛠 Hope to contribute to the world code base
+  </p>
+  
+  - 💻 Loves to toss code and write blogs
+  - 🌐 Loves playing with IoT devices
+  - 🔧 Hands-on superhero
+  - 📡 Wide range of areas of interest
+  - 🗡 CS and Honor Of King  players
+  
+  <p align="center">
+  📫 Skills (I think...)
+  </p>
+  
+  - ⚡ Html & Css
+  - ⚡ JS code development based on jQuery
+  - ⚡ Python program development
+  - ⚡ IoT device development based on C++ language
+  - ⚡ GAMER!
+  - ⚡ Front-end and back-end application development(just a joke)
+  
+  <p align="center">
+  📧 Contact Me
+  </p>
+  
+  - 🐧[TencentQQ @1535686711](http://wpa.qq.com/msgrd?v=3&uin=1535686711&site=qq&menu=yes)
+  - 🛩️ [Telegram @imashen](https://t.me/imashen)
+  - 🎈 [TencentWeChat @imashenyoo](https://t.me/imashen)
+  
+</div>
+<div align="right">
+  <img align='right' src='/github-metrics.svg' width='420px'>
+  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='420px'>  
+</div>
