@@ -48,5 +48,5 @@
 </div>
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='80px'>  
+  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='420px'>  
 </div>
