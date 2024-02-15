@@ -1,6 +1,6 @@
 <div align="right">
   <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='42px'>  
+  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='80px'>  
 </div>
 <div align="left">
   <h3 align="center"> imashen | noneko</h3>
