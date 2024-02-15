@@ -1,4 +1,7 @@
-
+<div align="right">
+  <img align='right' src='/github-metrics.svg' width='420px'>
+  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='420px'>  
+</div>
 <div align="left">
   <h3 align="center"> imashen | noneko</h3>
   <p align="center">
@@ -45,7 +48,4 @@
   - 🎈 [TencentWeChat @imashenyoo](https://t.me/imashen)
   
 </div>
-<div align="right">
-  <img align='right' src='/github-metrics.svg' width='420px'>
-  <img align='right' src='https://github.com/imashen/imashen/blob/main/naiai.png' width='420px'>  
-</div>
+
