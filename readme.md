@@ -45,7 +45,7 @@
   
   - 🐧[TencentQQ @1535686711](http://wpa.qq.com/msgrd?v=3&uin=1535686711&site=qq&menu=yes)
   - 🛩️ [Telegram @imashen](https://t.me/imashen)
-  - 🎈 [TencentWeChat @imashenyoo](https://t.me/imashen)
+  - 🎈 [TencentWeChat @imashenyoo]()
   
 
 </div>
