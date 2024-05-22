@@ -6,8 +6,8 @@
   <h3 align="center"> imashen | noneko</h3>
   <p align="center">
     <samp>
-      <a href="https://imashen.cn/">Blog</a> ∙
-      <a href="https://space.bilibili.com/354520563">Bilibili</a> ∙
+      <a href="https://bing.com/">Blog</a> ∙
+      <a href="https://space.bilibili.com/moon">Bilibili</a> ∙
       <a href="https://steamcommunity.com/id/imashenyoo">Steam</a> ∙
     </samp>
   </p>
@@ -42,11 +42,7 @@
   <p align="left">
   📧 Contact Me
   </p>
-  
-  - 🐧[TencentQQ @1535686711](http://wpa.qq.com/msgrd?v=3&uin=1535686711&site=qq&menu=yes)
   - 🛩️ [Telegram @imashen](https://t.me/imashen)
-  - 🎈 [TencentWeChat @imashenyoo]()
   
-
 </div>
 
