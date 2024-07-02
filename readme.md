@@ -42,7 +42,7 @@
   <p align="left">
   📧 Contact Me
   </p>
-  - 🛩️ [Telegram @imashen](https://t.me/imashen)
+  - 🛩️ [Telegram @imashen]
   
 </div>
 
