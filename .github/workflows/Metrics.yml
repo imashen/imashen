@@ -25,13 +25,20 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      # Use the maintained community fork instead of lowlighter/metrics@latest.
+      # Reason: upstream `@latest` still queries the deprecated Projects (classic)
+      # GraphQL field (`user.projects`), which GitHub removed on 2024-05-23.
+      # This breaks BOTH the `projects` and `achievements` plugins with
+      # "Unexpected error" (the whole query returns `user: null`).
+      # `gh-metrics/metrics@master` has migrated achievements to `projectsV2`.
+      # See: https://github.blog/changelog/2024-05-23-sunset-notice-projects-classic/
+      - uses: gh-metrics/metrics@master
         with:
           # GitHub token used to read your data.
           # 1) Create a classic PAT: https://github.com/settings/tokens
           # 2) Scopes: public_repo, read:org, read:project, read:user
-          #    - read:project  -> required for the Projects plugin (profile projects)
-          #    - read:user     -> recommended (used by optional achievements/org features)
+          #    - read:project  -> needed by projectsV2 queries
+          #    - read:user     -> used by achievements secrets / org features
           #    - add `repo`    -> only if you also want to include private repositories
           # 3) Store it as a repository secret named METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,13 +57,11 @@ jobs:
           config_output: svg
 
           # Achievements
-          # NOTE: `plugin_achievements_secrets: yes` (the default) requires the
-          # token to have `read:user` (and often `repo`) scope to compute secret
-          # achievements; without it the plugin throws "Unexpected error".
-          # Disabling it keeps achievements scopeless and error-free.
+          # The fork migrated this plugin to projectsV2, so it works again.
+          # `plugin_achievements_secrets: yes` (default) needs `read:user` scope.
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_achievements_secrets: no
+          plugin_achievements_secrets: yes
           plugin_achievements_threshold: X
 
           # Languages
@@ -78,6 +83,9 @@ jobs:
           plugin_people_size: 40
           plugin_people_types: followers, following
 
-          # Projects
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          # Projects — DISABLED
+          # GitHub sunset the classic Projects API on 2024-05-23. Even the fork
+          # only migrated achievements to projectsV2; the projects plugin itself
+          # still relies on the legacy field and has no profile-project data to
+          # show for this account anyway. Leave off to keep the card error-free.
+          plugin_projects: no
