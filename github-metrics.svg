@@ -740,7 +740,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 674k out of 342m repositories</span>
+                                    <span class="gh">ranked 675k out of 342m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
@@ -1289,7 +1289,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2026, 19:23:49 (timezone Asia/Hong_Kong) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Aug 2026, 20:42:29 (timezone Asia/Hong_Kong) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
