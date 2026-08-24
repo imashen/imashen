@@ -600,7 +600,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 965k out of 342m repositories</span>
+                                    <span class="gh">ranked 965k out of 343m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -740,7 +740,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 675k out of 342m repositories</span>
+                                    <span class="gh">ranked 675k out of 343m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">63</div>
                                     </div>
@@ -1289,7 +1289,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2026, 11:06:31 (timezone Asia/Hong_Kong) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Aug 2026, 12:47:15 (timezone Asia/Hong_Kong) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
